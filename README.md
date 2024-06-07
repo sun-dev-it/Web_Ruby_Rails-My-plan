@@ -2,8 +2,8 @@
 * This website is written by Ruby on Rails
 * Use service from api provider https://www.weatherapi.com
 * Deployment: render.com
-* [Link web](https://g-weather-forecast-8mps.onrender.com)
-* [Link github](https://github.com/sun-dev-it/G-Weather-Forecast.git)
+* Link web [](https://g-weather-forecast-8mps.onrender.com)
+* Link github [](https://github.com/sun-dev-it/G-Weather-Forecast.git)
 
 
 # guide to run your project locally
@@ -12,7 +12,7 @@ git clone https://github.com/sun-dev-it/G-Weather-Forecast.git
 cd G-Weather-Forecast
 rails server
 ```
-* Access the link [Link web](http://localhost:3000/)
+* Access the link [](http://localhost:3000/)
 
 
 # General functions:
