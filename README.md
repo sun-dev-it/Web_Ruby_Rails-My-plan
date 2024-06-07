@@ -1,24 +1,13 @@
-# README
+```markdown
+# SAP Code Snippet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here's an example of SAP code you can use in your projects:
 
-Things you may want to cover:
+```abap
+REPORT ZTEST_REPORT.
 
-* Ruby version
+PARAMETERS: p_name TYPE char30 OBLIGATORY.
 
-* System dependencies
+START-OF-SELECTION.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  WRITE: / 'Hello, ', p_name, '!'.
