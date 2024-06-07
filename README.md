@@ -17,8 +17,8 @@ rails server
 
 # General functions:
 * Search for a city or country and display weather information:
-** Show the weather includes temperature, wind speed, humidity... for present day.
-** Show forecast 4 days later and more (load more).
+1. Show the weather includes temperature, wind speed, humidity... for present day.
+2. Show forecast 4 days later.
 * There is a function to register and unsubscribe to receive daily weather forecast information.
 
 
