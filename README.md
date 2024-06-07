@@ -6,13 +6,13 @@
 * Link github [github.com/sun-dev-it/G-Weather-Forecast.git](https://github.com/sun-dev-it/G-Weather-Forecast.git)
 
 
-# guide to run your project locally
+# Guide to run your project locally
 ```markdown
 git clone https://github.com/sun-dev-it/G-Weather-Forecast.git
 cd G-Weather-Forecast
 rails server
 ```
-* Access the link [](http://localhost:3000/)
+* Access the link [http://localhost:3000](http://localhost:3000)
 
 
 # General functions:
